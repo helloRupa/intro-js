@@ -19,6 +19,8 @@ Volunteer please.
   - It is downloaded by the client and run by the browser
       - As long as it's included in the HTML file
 
+![](pic_htmltree.gif)
+
 ### Mutate the DOM and its styles using JavaScript
 - Let's use Dev Tools to traverse the DOM and identify elements
 - Let's update the text in the h1 using Dev Tools
