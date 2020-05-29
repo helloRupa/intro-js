@@ -49,7 +49,7 @@ Volunteer please.
 
 **Quick discussion: `append` vs `appendChild`**
 
-Hint: There are 3 main differences! But probably only one that you'll really care about.
+***Hint: There are 3 main differences! But probably only one or two that you'll really care about.***
 
 - Use `.innerHTML` to create elements from HTML
 
